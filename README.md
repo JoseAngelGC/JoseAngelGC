@@ -18,6 +18,49 @@
 
 </table>
 
+## 🛠️ Skills
+
+#### Backend Stack
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&perline=14" /></a>
+</p>
+
+#### Frontend Stack
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js&perline=14" /></a>
+</p>
+
+#### Repositories
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gitlab&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bitbucket&perline=14" /></a>
+</p>
+
+#### Tools and Technologies
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws&perline=14" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana&perline=14" /></a>
+</p>
 
 ## My social media
 <p>
